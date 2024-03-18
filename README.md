@@ -6,3 +6,5 @@
 ~~~sh
 ./gradlew build
 ~~~
+
+- [Minecraft 1.19.3でMod制作](https://zenn.dev/boson/books/b83a4a1c0611d0)
