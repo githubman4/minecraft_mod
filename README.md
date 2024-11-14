@@ -1,4 +1,6 @@
 # minecraft_mod
+- [苦しんでzenn](https://zenn.dev/cyber_hacnosuke/books/minecraft-modding/viewer/env)
+
 - [forgeでゼロから開発（翻訳していいね](https://docs.minecraftforge.net/en/latest/gettingstarted/)
 
 - [Minecraft Japan Wiki MOD製作](https://minecraftjapan.miraheze.org/wiki/MOD%E8%A3%BD%E4%BD%9C)
