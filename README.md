@@ -9,3 +9,4 @@
 
 - [LWJGL 入門](https://zenryokuservice.com/wp/2020/05/05/java-3d-lwjgl-〜tutorial-1-windowを表示する〜/)
   
+- [chatGPT ゾンビ強化](https://chatgpt.com/share/67346c00-cdf0-800c-a9c5-51cdcd904e6d)
