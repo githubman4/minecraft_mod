@@ -1,5 +1,7 @@
 # minecraft_mod
 
+- [Minecraft Japan Wiki MOD製作](https://minecraftjapan.miraheze.org/wiki/MOD%E8%A3%BD%E4%BD%9C)
+
 - [Visual Studio Code でマインクラフトMODを開発できるようにした話](https://qiita.com/SoundRabbit/items/b326a6e2887e9e70b3c9)
   
 ## build
