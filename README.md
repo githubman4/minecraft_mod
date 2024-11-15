@@ -1,4 +1,5 @@
 # minecraft_mod
+- [Minecraftでオリジナルの食料を追加する方法](https://selifemorizo.com/2024/10/12/%e3%80%90java-mod%e9%96%8b%e7%99%ba%e3%80%91minecraft%e3%81%a7%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%81%ae%e9%a3%9f%e6%96%99%e3%82%92%e8%bf%bd%e5%8a%a0%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95/)
 - [苦しんでzenn](https://zenn.dev/cyber_hacnosuke/books/minecraft-modding/viewer/env)
 
 - [forgeでゼロから開発（翻訳していいね](https://docs.minecraftforge.net/en/latest/gettingstarted/)
