@@ -1,0 +1,28 @@
+import net.minecraftforge.event.entity.living.LivingSpawnEvent;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraft.entity.monster.ZombieEntity;
+import net.minecraft.entity.ai.attributes.Attributes;
+
+@Mod.EventBusSubscriber
+public class ZombieStrengthModifier {
+
+    @SubscribeEvent
+    public static void onZombieSpawn(LivingSpawnEvent.SpecialSpawn event) {
+        if (event.getEntity() instanceof ZombieEntity) {
+            ZombieEntity zombie = (ZombieEntity) event.getEntity();
+
+            // 体力を2倍にする
+            zombie.getAttribute(Attributes.MAX_HEALTH).setBaseValue(40.0); // デフォルトは20.0
+            zombie.setHealth(40.0F); // 体力を現在値にも反映
+
+            // 攻撃力を増加させる
+            zombie.getAttribute(Attributes.ATTACK_DAMAGE).setBaseValue(10.0); // デフォルトは3.0
+
+            // 移動速度を少し上げる
+            zombie.getAttribute(Attributes.MOVEMENT_SPEED).setBaseValue(0.35); // デフォルトは0.23
+
+            // 他にも、必要に応じて追加の属性を変更できます
+        }
+    }
+}
